@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational condensed matter physics
 - 🌱 I’m currently learning librascal
 - 💞️ I’m looking to collaborate on electronic structures
-- 📫 How to reach me aryanpourcpu@gmail.com
+- 📫 How to reach me aryanpourcph@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
